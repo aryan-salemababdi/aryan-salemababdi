@@ -4,7 +4,7 @@
 
 # Languages and Tools
 ![Javascript](https://img.shields.io/badge/Javascript-blue?style=for-the-badge&logo=javascript)
-![Typescript](https://img.shields.io/badge/Typescript-red?style=for-the-badge&logo=typescript)
+![Typescript](https://img.shields.io/badge/Typescript-yellow?style=for-the-badge&logo=typescript)
 
 
 
