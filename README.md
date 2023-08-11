@@ -3,8 +3,8 @@
 ### **Hi there 👋 I'm Aryan Salemabadi**, I'm Full-Stack Developer and Python Developer and I try to better and better every day
 
 # Languages and Tools
-![Javascript](https://img.shields.io/badge/Javascript-red?style=for-the-badge&logo=javascript)
-![Typescript](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript)
+![Javascript](https://img.shields.io/badge/Javascript-blue?style=for-the-badge&logo=javascript)
+![Typescript](https://img.shields.io/badge/Typescript-red?style=for-the-badge&logo=typescript)
 
 
 
