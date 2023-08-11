@@ -1,10 +1,12 @@
-### Hi there 👋
 
-###languages and tools
+# About Me
+### **Hi there 👋 I'm Aryan Salemabadi**, I'm Full-Stack Developer and Python Developer and I try to get better and better every day
+
+# Languages and Tools
+![Javascript](https://img.shields.io/badge/Javascript-red?style=for-the-badge&logo=javascript)
+![Typescript](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=javascript)
 
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 
 <!--
