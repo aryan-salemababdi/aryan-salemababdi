@@ -8,6 +8,7 @@
 ![ReactJs](https://img.shields.io/badge/ReactJs-blue?style=for-the-badge&logo=react)
 ![NextJs](https://img.shields.io/badge/NextJs-black?style=for-the-badge&logo=next.js)
 ![HTML](https://img.shields.io/badge/HTML5-E8A166?style=for-the-badge&logo=Html5)
+![CSS](https://img.shields.io/badge/Javascript-red?style=for-the-badge&logo=css3)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Tensorflow](https://img.shields.io/badge/tensorflow-BE4930?style=for-the-badge&logo=tensorflow)
 
