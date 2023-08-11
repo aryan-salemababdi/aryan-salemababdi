@@ -1,10 +1,10 @@
 
 # About Me
-### **Hi there 👋 I'm Aryan Salemabadi**, I'm Full-Stack Developer and Python Developer and I try to get better and better every day
+### **Hi there 👋 I'm Aryan Salemabadi**, I'm Full-Stack Developer and Python Developer and I try to better and better every day
 
 # Languages and Tools
 ![Javascript](https://img.shields.io/badge/Javascript-red?style=for-the-badge&logo=javascript)
-![Typescript](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=javascript)
+![Typescript](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript)
 
 
 
