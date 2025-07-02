@@ -23,15 +23,29 @@ Whether it’s frontend finesse or backend logic, I’m all in.
 ### 🛠️ Languages & Tools
 
 <p align="center">
+  <!-- Frontend -->
   <img src="https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Typescript-000?style=for-the-badge&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26" />
   <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <br/>
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs&logoColor=E0234E" />
+  <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white" />
+  <br/>
+  <!-- Python & AI -->
   <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Jupyter-000?style=for-the-badge&logo=jupyter&logoColor=F37626" />
   <img src="https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+  <br/>
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=47A248" />
 </p>
+
 
 ---
 
