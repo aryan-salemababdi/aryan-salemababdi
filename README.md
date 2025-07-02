@@ -61,7 +61,7 @@ Whether it’s frontend finesse or backend logic, I’m all in.
 
 - 💼 Portfolio: [Coming Soon]
 - 📬 Email: aryansab80@gmail.com
-- 💬 LinkedIn: [[linkedin.com/in/aryansalemabadi](https://linkedin.com/in/aryansalemabadi) ](https://www.linkedin.com/in/aryansalemabadi) 
+- 💬 LinkedIn: [linkedin.com/in/aryansalemabadi](https://linkedin.com/in/aryansalemabadi) 
 - 🎵 Sound meets logic: ask me about coding **or** composition!
 
 ---
