@@ -44,6 +44,7 @@ Whether it’s frontend finesse or backend logic, I’m all in.
   <!-- Databases -->
   <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
   <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis&logoColor=DC382D" />
   <br/>
  <!-- DevOps & Infrastructure -->
   <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED" />
