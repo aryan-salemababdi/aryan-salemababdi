@@ -14,7 +14,7 @@ I craft scalable web apps, build intelligent systems, and believe in **continuou
 Whether it’s frontend finesse or backend logic, I’m all in.
 
 - 🔭 Currently building modern web applications & scalable architectures  
-- 🌱 Exploring AI, Deep Learning, and System Design  
+- 🌱 Exploring System Design  
 - 🎯 Always learning, always improving  
 - 🎹 Fun fact: I also compose classical music — tech meets emotion!
 
